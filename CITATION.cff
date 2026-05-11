@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome DigitalOcean"
+abstract: "A curated list of tools, tutorials, guides, APIs, open-source projects, and resources related to the DigitalOcean cloud platform and ecosystem."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-digitalocean"
+keywords:
+  - DigitalOcean
+  - cloud computing
+  - DevOps
+  - infrastructure
+  - Kubernetes
+  - virtual private servers
+  - developer tools
+  - cloud infrastructure
+  - open source
+  - awesome list
